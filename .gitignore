@@ -1,0 +1,17 @@
+# Build Artifacts & Caches
+build/
+.xmake/
+.cache/
+compile_commands.json
+
+# Visual Studio / IDE temporary files
+.vs/
+*.vcxproj*
+*.sln
+.idea/
+.vscode/
+.DS_Store
+
+# Legacy build directories
+vcpkg_installed/
+.cmake_systeminformation/
