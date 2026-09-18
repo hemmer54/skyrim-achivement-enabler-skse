@@ -1,5 +1,5 @@
 #include <SKSE/SKSE.h>
-#include "Patch.h"
+#include "patch.h"
 
 namespace
 {

@@ -5,3 +5,6 @@
 	path = lib/commonlibsse-ng
 	url = https://github.com/alandtse/CommonLibSSE-NG.git
 	branch = ng
+[submodule "lib/commonlibf4"]
+	path = lib/commonlibf4
+	url = https://github.com/libxse/commonlibf4.git
